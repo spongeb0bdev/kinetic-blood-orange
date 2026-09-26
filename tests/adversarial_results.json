@@ -1,0 +1,1443 @@
+{
+  "viewports": {
+    "desktop_1440x900": {
+      "viewport": {
+        "id": "desktop_1440x900",
+        "name": "Desktop 1440x900",
+        "width": 1440,
+        "height": 900,
+        "dsf": 2
+      },
+      "intervals": {
+        "0.00": {
+          "scrollP": 0,
+          "canBox": {
+            "left": 697.5,
+            "right": 960,
+            "top": 63,
+            "bottom": 834,
+            "width": 262.5,
+            "height": 771,
+            "sampledPixels": 86993
+          },
+          "visibleTextCount": 4,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 157.5,
+          "activeBeat": 1,
+          "cameraPos": [
+            0,
+            0,
+            25
+          ]
+        },
+        "0.10": {
+          "scrollP": 0.1,
+          "canBox": {
+            "left": 591,
+            "right": 880.5,
+            "top": 28.5,
+            "bottom": 865.5,
+            "width": 289.5,
+            "height": 837,
+            "sampledPixels": 101662
+          },
+          "visibleTextCount": 5,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 19.5,
+          "activeBeat": 1,
+          "cameraPos": [
+            0,
+            0.15,
+            23.8
+          ]
+        },
+        "0.25": {
+          "scrollP": 0.25,
+          "canBox": {
+            "left": 480,
+            "right": 820.5,
+            "top": 1.5,
+            "bottom": 900,
+            "width": 340.5,
+            "height": 898.5,
+            "sampledPixels": 126830
+          },
+          "visibleTextCount": 6,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 79.5,
+          "activeBeat": 2,
+          "cameraPos": [
+            0,
+            0.38,
+            21.98
+          ]
+        },
+        "0.33": {
+          "scrollP": 0.33,
+          "canBox": {
+            "left": 417,
+            "right": 792,
+            "top": 1.5,
+            "bottom": 900,
+            "width": 375,
+            "height": 898.5,
+            "sampledPixels": 137732
+          },
+          "visibleTextCount": 8,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 108,
+          "activeBeat": 2,
+          "cameraPos": [
+            0,
+            0.5,
+            21.01
+          ]
+        },
+        "0.50": {
+          "scrollP": 0.5,
+          "canBox": {
+            "left": 571.5,
+            "right": 889.5,
+            "top": 1.5,
+            "bottom": 900,
+            "width": 318,
+            "height": 898.5,
+            "sampledPixels": 125295
+          },
+          "visibleTextCount": 7,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 27.5,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0.24,
+            22.28
+          ]
+        },
+        "0.66": {
+          "scrollP": 0.66,
+          "canBox": {
+            "left": 691.5,
+            "right": 985.5,
+            "top": 12,
+            "bottom": 883.5,
+            "width": 294,
+            "height": 871.5,
+            "sampledPixels": 110094
+          },
+          "visibleTextCount": 10,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 151.5,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            23.49
+          ]
+        },
+        "0.75": {
+          "scrollP": 0.75,
+          "canBox": {
+            "left": 681,
+            "right": 967.5,
+            "top": 22.5,
+            "bottom": 870,
+            "width": 286.5,
+            "height": 847.5,
+            "sampledPixels": 104364
+          },
+          "visibleTextCount": 11,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 141,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            23.76
+          ]
+        },
+        "1.00": {
+          "scrollP": 1,
+          "canBox": {
+            "left": 642,
+            "right": 910.5,
+            "top": 48,
+            "bottom": 838.5,
+            "width": 268.5,
+            "height": 790.5,
+            "sampledPixels": 90845
+          },
+          "visibleTextCount": 5,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 102,
+          "activeBeat": 4,
+          "cameraPos": [
+            0,
+            0,
+            24.5
+          ]
+        }
+      },
+      "collisionCount": 0
+    },
+    "laptop_1024x768": {
+      "viewport": {
+        "id": "laptop_1024x768",
+        "name": "Small Laptop 1024x768",
+        "width": 1024,
+        "height": 768,
+        "dsf": 2
+      },
+      "intervals": {
+        "0.00": {
+          "scrollP": 0,
+          "canBox": {
+            "left": 538.5,
+            "right": 688.5,
+            "top": 172.5,
+            "bottom": 595.5,
+            "width": 150,
+            "height": 423,
+            "sampledPixels": 27604
+          },
+          "visibleTextCount": 4,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 166.5,
+          "activeBeat": 1,
+          "cameraPos": [
+            0,
+            0,
+            27.98
+          ]
+        },
+        "0.10": {
+          "scrollP": 0.1,
+          "canBox": {
+            "left": 436.5,
+            "right": 604.5,
+            "top": 148.5,
+            "bottom": 621,
+            "width": 168,
+            "height": 472.5,
+            "sampledPixels": 33995
+          },
+          "visibleTextCount": 5,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 50.5,
+          "activeBeat": 1,
+          "cameraPos": [
+            0,
+            0.15,
+            25.89
+          ]
+        },
+        "0.25": {
+          "scrollP": 0.25,
+          "canBox": {
+            "left": 322.5,
+            "right": 532.5,
+            "top": 99,
+            "bottom": 670.5,
+            "width": 210,
+            "height": 571.5,
+            "sampledPixels": 49006
+          },
+          "visibleTextCount": 4,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 119.5,
+          "activeBeat": 2,
+          "cameraPos": [
+            0,
+            0.38,
+            22.72
+          ]
+        },
+        "0.33": {
+          "scrollP": 0.33,
+          "canBox": {
+            "left": 255,
+            "right": 492,
+            "top": 64.5,
+            "bottom": 703.5,
+            "width": 237,
+            "height": 639,
+            "sampledPixels": 61038
+          },
+          "visibleTextCount": 8,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 160,
+          "activeBeat": 2,
+          "cameraPos": [
+            0,
+            0.5,
+            21.01
+          ]
+        },
+        "0.50": {
+          "scrollP": 0.5,
+          "canBox": {
+            "left": 424.5,
+            "right": 607.5,
+            "top": 120,
+            "bottom": 648,
+            "width": 183,
+            "height": 528,
+            "sampledPixels": 41899
+          },
+          "visibleTextCount": 8,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 52.5,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0.24,
+            24.59
+          ]
+        },
+        "0.66": {
+          "scrollP": 0.66,
+          "canBox": {
+            "left": 538.5,
+            "right": 696,
+            "top": 160.5,
+            "bottom": 607.5,
+            "width": 157.5,
+            "height": 447,
+            "sampledPixels": 30478
+          },
+          "visibleTextCount": 10,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 166.5,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            27.98
+          ]
+        },
+        "0.75": {
+          "scrollP": 0.75,
+          "canBox": {
+            "left": 528,
+            "right": 688.5,
+            "top": 154.5,
+            "bottom": 610.5,
+            "width": 160.5,
+            "height": 456,
+            "sampledPixels": 31802
+          },
+          "visibleTextCount": 10,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 165.1,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            27.08
+          ]
+        },
+        "1.00": {
+          "scrollP": 1,
+          "canBox": {
+            "left": 487.5,
+            "right": 657,
+            "top": 135,
+            "bottom": 625.5,
+            "width": 169.5,
+            "height": 490.5,
+            "sampledPixels": 36182
+          },
+          "visibleTextCount": 5,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 75.7,
+          "activeBeat": 4,
+          "cameraPos": [
+            0,
+            0,
+            24.52
+          ]
+        }
+      },
+      "collisionCount": 0
+    },
+    "tablet_768x1024": {
+      "viewport": {
+        "id": "tablet_768x1024",
+        "name": "Tablet Portrait 768x1024",
+        "width": 768,
+        "height": 1024,
+        "dsf": 2
+      },
+      "intervals": {
+        "0.00": {
+          "scrollP": 0,
+          "canBox": {
+            "left": 330,
+            "right": 438,
+            "top": 74.5,
+            "bottom": 382,
+            "width": 108,
+            "height": 307.5,
+            "sampledPixels": 14636
+          },
+          "visibleTextCount": 4,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 81,
+          "activeBeat": 1,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.10": {
+          "scrollP": 0.1,
+          "canBox": {
+            "left": 330,
+            "right": 439.5,
+            "top": 74.5,
+            "bottom": 382,
+            "width": 109.5,
+            "height": 307.5,
+            "sampledPixels": 14643
+          },
+          "visibleTextCount": 4,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 81,
+          "activeBeat": 1,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.25": {
+          "scrollP": 0.25,
+          "canBox": {
+            "left": 327,
+            "right": 442.5,
+            "top": 74.5,
+            "bottom": 380.5,
+            "width": 115.5,
+            "height": 306,
+            "sampledPixels": 14635
+          },
+          "visibleTextCount": 5,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 81.7,
+          "activeBeat": 2,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.33": {
+          "scrollP": 0.33,
+          "canBox": {
+            "left": 325.5,
+            "right": 444,
+            "top": 73,
+            "bottom": 380.5,
+            "width": 118.5,
+            "height": 307.5,
+            "sampledPixels": 14637
+          },
+          "visibleTextCount": 5,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 81.4,
+          "activeBeat": 2,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.50": {
+          "scrollP": 0.5,
+          "canBox": {
+            "left": 328.5,
+            "right": 438,
+            "top": 73,
+            "bottom": 380.5,
+            "width": 109.5,
+            "height": 307.5,
+            "sampledPixels": 14645
+          },
+          "visibleTextCount": 10,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 82.1,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.66": {
+          "scrollP": 0.66,
+          "canBox": {
+            "left": 328.5,
+            "right": 438,
+            "top": 74.5,
+            "bottom": 380.5,
+            "width": 109.5,
+            "height": 306,
+            "sampledPixels": 14624
+          },
+          "visibleTextCount": 10,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 82.1,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.75": {
+          "scrollP": 0.75,
+          "canBox": {
+            "left": 328.5,
+            "right": 438,
+            "top": 74.5,
+            "bottom": 380.5,
+            "width": 109.5,
+            "height": 306,
+            "sampledPixels": 14620
+          },
+          "visibleTextCount": 10,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 82.1,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "1.00": {
+          "scrollP": 1,
+          "canBox": {
+            "left": 328.5,
+            "right": 438,
+            "top": 74.5,
+            "bottom": 380.5,
+            "width": 109.5,
+            "height": 306,
+            "sampledPixels": 14620
+          },
+          "visibleTextCount": 5,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 82.1,
+          "activeBeat": 4,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        }
+      },
+      "collisionCount": 0
+    },
+    "mobile_390x844": {
+      "viewport": {
+        "id": "mobile_390x844",
+        "name": "Mobile 390x844",
+        "width": 390,
+        "height": 844,
+        "dsf": 3
+      },
+      "intervals": {
+        "0.00": {
+          "scrollP": 0,
+          "canBox": {
+            "left": 150,
+            "right": 240,
+            "top": 62,
+            "bottom": 314,
+            "width": 90,
+            "height": 252,
+            "sampledPixels": 5608
+          },
+          "visibleTextCount": 4,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 82,
+          "activeBeat": 1,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.10": {
+          "scrollP": 0.1,
+          "canBox": {
+            "left": 150,
+            "right": 240,
+            "top": 62,
+            "bottom": 314,
+            "width": 90,
+            "height": 252,
+            "sampledPixels": 5619
+          },
+          "visibleTextCount": 4,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 82,
+          "activeBeat": 1,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.25": {
+          "scrollP": 0.25,
+          "canBox": {
+            "left": 148,
+            "right": 242,
+            "top": 62,
+            "bottom": 314,
+            "width": 94,
+            "height": 252,
+            "sampledPixels": 5605
+          },
+          "visibleTextCount": 8,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 82,
+          "activeBeat": 2,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.33": {
+          "scrollP": 0.33,
+          "canBox": {
+            "left": 146,
+            "right": 244,
+            "top": 62,
+            "bottom": 314,
+            "width": 98,
+            "height": 252,
+            "sampledPixels": 5612
+          },
+          "visibleTextCount": 8,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 82,
+          "activeBeat": 2,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.50": {
+          "scrollP": 0.5,
+          "canBox": {
+            "left": 150,
+            "right": 238,
+            "top": 62,
+            "bottom": 314,
+            "width": 88,
+            "height": 252,
+            "sampledPixels": 5587
+          },
+          "visibleTextCount": 10,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 82,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.66": {
+          "scrollP": 0.66,
+          "canBox": {
+            "left": 150,
+            "right": 240,
+            "top": 62,
+            "bottom": 314,
+            "width": 90,
+            "height": 252,
+            "sampledPixels": 5606
+          },
+          "visibleTextCount": 10,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 82,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.75": {
+          "scrollP": 0.75,
+          "canBox": {
+            "left": 150,
+            "right": 240,
+            "top": 62,
+            "bottom": 314,
+            "width": 90,
+            "height": 252,
+            "sampledPixels": 5608
+          },
+          "visibleTextCount": 10,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 82,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "1.00": {
+          "scrollP": 1,
+          "canBox": {
+            "left": 150,
+            "right": 240,
+            "top": 62,
+            "bottom": 314,
+            "width": 90,
+            "height": 252,
+            "sampledPixels": 5608
+          },
+          "visibleTextCount": 5,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 82,
+          "activeBeat": 4,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        }
+      },
+      "collisionCount": 0
+    },
+    "mobile_360x780": {
+      "viewport": {
+        "id": "mobile_360x780",
+        "name": "Narrow Mobile 360x780",
+        "width": 360,
+        "height": 780,
+        "dsf": 3
+      },
+      "intervals": {
+        "0.00": {
+          "scrollP": 0,
+          "canBox": {
+            "left": 138,
+            "right": 220,
+            "top": 58,
+            "bottom": 290,
+            "width": 82,
+            "height": 232,
+            "sampledPixels": 4781
+          },
+          "visibleTextCount": 4,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 106,
+          "activeBeat": 1,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.10": {
+          "scrollP": 0.1,
+          "canBox": {
+            "left": 138,
+            "right": 222,
+            "top": 58,
+            "bottom": 290,
+            "width": 84,
+            "height": 232,
+            "sampledPixels": 4788
+          },
+          "visibleTextCount": 4,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 106,
+          "activeBeat": 1,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.25": {
+          "scrollP": 0.25,
+          "canBox": {
+            "left": 136,
+            "right": 224,
+            "top": 56,
+            "bottom": 290,
+            "width": 88,
+            "height": 234,
+            "sampledPixels": 4797
+          },
+          "visibleTextCount": 8,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 106,
+          "activeBeat": 2,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.33": {
+          "scrollP": 0.33,
+          "canBox": {
+            "left": 136,
+            "right": 226,
+            "top": 56,
+            "bottom": 290,
+            "width": 90,
+            "height": 234,
+            "sampledPixels": 4797
+          },
+          "visibleTextCount": 8,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 106,
+          "activeBeat": 2,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.50": {
+          "scrollP": 0.5,
+          "canBox": {
+            "left": 138,
+            "right": 220,
+            "top": 56,
+            "bottom": 290,
+            "width": 82,
+            "height": 234,
+            "sampledPixels": 4799
+          },
+          "visibleTextCount": 10,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 106,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.66": {
+          "scrollP": 0.66,
+          "canBox": {
+            "left": 138,
+            "right": 220,
+            "top": 58,
+            "bottom": 290,
+            "width": 82,
+            "height": 232,
+            "sampledPixels": 4782
+          },
+          "visibleTextCount": 10,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 106,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.75": {
+          "scrollP": 0.75,
+          "canBox": {
+            "left": 138,
+            "right": 220,
+            "top": 58,
+            "bottom": 290,
+            "width": 82,
+            "height": 232,
+            "sampledPixels": 4780
+          },
+          "visibleTextCount": 10,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 106,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "1.00": {
+          "scrollP": 1,
+          "canBox": {
+            "left": 138,
+            "right": 220,
+            "top": 58,
+            "bottom": 290,
+            "width": 82,
+            "height": 232,
+            "sampledPixels": 4781
+          },
+          "visibleTextCount": 5,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 106,
+          "activeBeat": 4,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        }
+      },
+      "collisionCount": 0
+    },
+    "mobile_320x568": {
+      "viewport": {
+        "id": "mobile_320x568",
+        "name": "Narrow Mobile 320x568",
+        "width": 320,
+        "height": 568,
+        "dsf": 2
+      },
+      "intervals": {
+        "0.00": {
+          "scrollP": 0,
+          "canBox": {
+            "left": 130,
+            "right": 190,
+            "top": 42,
+            "bottom": 212,
+            "width": 60,
+            "height": 170,
+            "sampledPixels": 2567
+          },
+          "visibleTextCount": 2,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 184,
+          "activeBeat": 1,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.10": {
+          "scrollP": 0.1,
+          "canBox": {
+            "left": 130,
+            "right": 190,
+            "top": 42,
+            "bottom": 212,
+            "width": 60,
+            "height": 170,
+            "sampledPixels": 2569
+          },
+          "visibleTextCount": 2,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 184,
+          "activeBeat": 1,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.25": {
+          "scrollP": 0.25,
+          "canBox": {
+            "left": 128,
+            "right": 192,
+            "top": 42,
+            "bottom": 212,
+            "width": 64,
+            "height": 170,
+            "sampledPixels": 2555
+          },
+          "visibleTextCount": 3,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 184,
+          "activeBeat": 2,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.33": {
+          "scrollP": 0.33,
+          "canBox": {
+            "left": 128,
+            "right": 192,
+            "top": 42,
+            "bottom": 212,
+            "width": 64,
+            "height": 170,
+            "sampledPixels": 2553
+          },
+          "visibleTextCount": 3,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 184,
+          "activeBeat": 2,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.50": {
+          "scrollP": 0.5,
+          "canBox": {
+            "left": 130,
+            "right": 190,
+            "top": 42,
+            "bottom": 210,
+            "width": 60,
+            "height": 168,
+            "sampledPixels": 2535
+          },
+          "visibleTextCount": 3,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 186,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.66": {
+          "scrollP": 0.66,
+          "canBox": {
+            "left": 130,
+            "right": 190,
+            "top": 42,
+            "bottom": 212,
+            "width": 60,
+            "height": 170,
+            "sampledPixels": 2564
+          },
+          "visibleTextCount": 3,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 184,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "0.75": {
+          "scrollP": 0.75,
+          "canBox": {
+            "left": 130,
+            "right": 190,
+            "top": 42,
+            "bottom": 212,
+            "width": 60,
+            "height": 170,
+            "sampledPixels": 2567
+          },
+          "visibleTextCount": 3,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 184,
+          "activeBeat": 3,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        },
+        "1.00": {
+          "scrollP": 1,
+          "canBox": {
+            "left": 130,
+            "right": 190,
+            "top": 42,
+            "bottom": 212,
+            "width": 60,
+            "height": 170,
+            "sampledPixels": 2567
+          },
+          "visibleTextCount": 3,
+          "collisionCount": 0,
+          "collisions": [],
+          "minClearance": 184,
+          "activeBeat": 4,
+          "cameraPos": [
+            0,
+            0,
+            34
+          ]
+        }
+      },
+      "collisionCount": 0
+    }
+  },
+  "reversibility": {
+    "desktop_1440x900": {
+      "maxCameraDelta": 0.0179,
+      "beatMismatches": 0,
+      "layoutShift": 0,
+      "isCleanReturn": true,
+      "deltas": {
+        "0.00": {
+          "cameraDelta": 0.0011,
+          "beatMatch": true,
+          "fwdBeat": 1,
+          "revBeat": 1,
+          "fwdCam": [
+            0,
+            5.975158059994447e-96,
+            24.993461033935496
+          ],
+          "revCam": [
+            0,
+            0.0009037168458714302,
+            24.992770264295636
+          ]
+        },
+        "0.10": {
+          "cameraDelta": 0.0179,
+          "beatMatch": true,
+          "fwdBeat": 1,
+          "revBeat": 1,
+          "fwdCam": [
+            0,
+            0.15045142033981027,
+            23.796349661738795
+          ],
+          "revCam": [
+            0,
+            0.15268253179279098,
+            23.77853958728548
+          ]
+        },
+        "0.25": {
+          "cameraDelta": 0.0168,
+          "beatMatch": true,
+          "fwdBeat": 2,
+          "revBeat": 2,
+          "fwdCam": [
+            0,
+            0.37728346972612964,
+            21.981732008245125
+          ],
+          "revCam": [
+            0,
+            0.3793665276109685,
+            21.965040606960617
+          ]
+        },
+        "0.33": {
+          "cameraDelta": 0.0026,
+          "beatMatch": true,
+          "fwdBeat": 2,
+          "revBeat": 2,
+          "fwdCam": [
+            0,
+            0.49920514747388284,
+            21.006358818989867
+          ],
+          "revCam": [
+            0,
+            0.49832512414502195,
+            21.00884030758873
+          ]
+        },
+        "0.50": {
+          "cameraDelta": 0.016,
+          "beatMatch": true,
+          "fwdBeat": 3,
+          "revBeat": 3,
+          "fwdCam": [
+            0,
+            0.2438734637953729,
+            22.280648623202275
+          ],
+          "revCam": [
+            0,
+            0.24073759591186655,
+            22.29632419100291
+          ]
+        },
+        "0.66": {
+          "cameraDelta": 0.0088,
+          "beatMatch": true,
+          "fwdBeat": 3,
+          "revBeat": 3,
+          "fwdCam": [
+            0,
+            0.00140754844897459,
+            23.49339895284318
+          ],
+          "revCam": [
+            0,
+            1.0369518803066156e-14,
+            23.502079369716302
+          ]
+        },
+        "0.75": {
+          "cameraDelta": 0.0058,
+          "beatMatch": true,
+          "fwdBeat": 3,
+          "revBeat": 3,
+          "fwdCam": [
+            0,
+            0.000008460470432561943,
+            23.763334935131336
+          ],
+          "revCam": [
+            0,
+            1.6987884775292681e-12,
+            23.769150487012215
+          ]
+        },
+        "1.00": {
+          "cameraDelta": 0.0042,
+          "beatMatch": true,
+          "fwdBeat": 4,
+          "revBeat": 4,
+          "fwdCam": [
+            0,
+            4.8899152208215464e-8,
+            24.495742282013676
+          ],
+          "revCam": [
+            0,
+            2.9848370370516063e-10,
+            24.49997401060394
+          ]
+        }
+      },
+      "initialDocMetrics": {
+        "scrollHeight": 3713,
+        "clientHeight": 900,
+        "clientWidth": 1440
+      },
+      "postDocMetrics": {
+        "scrollHeight": 3713,
+        "clientHeight": 900,
+        "clientWidth": 1440,
+        "scrollY": 0
+      }
+    },
+    "mobile_390x844": {
+      "maxCameraDelta": 0.0002,
+      "beatMismatches": 0,
+      "layoutShift": 0,
+      "isCleanReturn": true,
+      "deltas": {
+        "0.00": {
+          "cameraDelta": 0.0002,
+          "beatMatch": true,
+          "fwdBeat": 1,
+          "revBeat": 1,
+          "fwdCam": [
+            0,
+            1.2409612402437091e-8,
+            33.99984679401237
+          ],
+          "revCam": [
+            0,
+            3.4867826614661615e-42,
+            34
+          ]
+        },
+        "0.10": {
+          "cameraDelta": 0,
+          "beatMatch": true,
+          "fwdBeat": 1,
+          "revBeat": 1,
+          "fwdCam": [
+            0,
+            7.132355553580585e-11,
+            33.99999911945713
+          ],
+          "revCam": [
+            0,
+            6.0412397581971456e-40,
+            34
+          ]
+        },
+        "0.25": {
+          "cameraDelta": 0,
+          "beatMatch": true,
+          "fwdBeat": 2,
+          "revBeat": 2,
+          "fwdCam": [
+            0,
+            4.2871052517563214e-13,
+            33.99999999470724
+          ],
+          "revCam": [
+            0,
+            1.0336063241069393e-37,
+            34
+          ]
+        },
+        "0.33": {
+          "cameraDelta": 0,
+          "beatMatch": true,
+          "fwdBeat": 2,
+          "revBeat": 2,
+          "fwdCam": [
+            0,
+            2.059744457496808e-15,
+            33.99999999997457
+          ],
+          "revCam": [
+            0,
+            1.758539762999659e-35,
+            34
+          ]
+        },
+        "0.50": {
+          "cameraDelta": 0,
+          "beatMatch": true,
+          "fwdBeat": 3,
+          "revBeat": 3,
+          "fwdCam": [
+            0,
+            1.154366965615069e-17,
+            33.99999999999986
+          ],
+          "revCam": [
+            0,
+            2.9174606589367024e-33,
+            34
+          ]
+        },
+        "0.66": {
+          "cameraDelta": 0,
+          "beatMatch": true,
+          "fwdBeat": 3,
+          "revBeat": 3,
+          "fwdCam": [
+            0,
+            6.948372019352936e-20,
+            33.999999999999986
+          ],
+          "revCam": [
+            0,
+            4.8673196932443026e-31,
+            34
+          ]
+        },
+        "0.75": {
+          "cameraDelta": 0,
+          "beatMatch": true,
+          "fwdBeat": 3,
+          "revBeat": 3,
+          "fwdCam": [
+            0,
+            4.038517122219761e-22,
+            34
+          ],
+          "revCam": [
+            0,
+            8.292680254046027e-29,
+            34
+          ]
+        },
+        "1.00": {
+          "cameraDelta": 0,
+          "beatMatch": true,
+          "fwdBeat": 4,
+          "revBeat": 4,
+          "fwdCam": [
+            0,
+            2.4894150460834975e-24,
+            34
+          ],
+          "revCam": [
+            0,
+            1.397126946508836e-26,
+            34
+          ]
+        }
+      },
+      "initialDocMetrics": {
+        "scrollHeight": 3569,
+        "clientHeight": 844,
+        "clientWidth": 390
+      },
+      "postDocMetrics": {
+        "scrollHeight": 3569,
+        "clientHeight": 844,
+        "clientWidth": 390,
+        "scrollY": 0
+      }
+    }
+  },
+  "summary": {
+    "totalCollisions": 0,
+    "collidingViewports": [],
+    "cleanViewports": [
+      "desktop_1440x900",
+      "laptop_1024x768",
+      "tablet_768x1024",
+      "mobile_390x844",
+      "mobile_360x780",
+      "mobile_320x568"
+    ],
+    "hysteresisViolations": 0,
+    "layoutShiftViolations": 0,
+    "runawayStateViolations": 0
+  }
+}
