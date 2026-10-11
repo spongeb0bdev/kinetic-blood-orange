@@ -3,7 +3,7 @@ import { ArrowRight } from 'lucide-react';
 
 export const Header: FC = () => {
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-6 lg:px-12 py-4 backdrop-blur-md bg-[#FAF8F5]/85 border-b border-[#1A1817]/8 w-full transition-colors">
+    <header className="fixed top-[var(--return-banner-height)] left-0 right-0 z-50 flex items-center justify-between px-6 lg:px-12 py-4 backdrop-blur-md bg-[#FAF8F5]/85 border-b border-[#1A1817]/8 w-full transition-colors">
       <div className="flex items-center gap-3">
         <a
           href="#hero"

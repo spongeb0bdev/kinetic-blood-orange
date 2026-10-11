@@ -63,7 +63,15 @@ if (fs.existsSync(modelPath)) {
 }
 
 // 3. Verify Standalone Isolation
+// The portfolio return banner is the one approved outbound link. Strip that
+// destination before scanning so other references still fail the build.
 console.log('\n--- 3. Standalone Isolation Verification ---')
+function stripApprovedReturnLink(content) {
+  return content
+    .replace(/https:\/\/www\.raymondadvisory\.com\/?/gi, '')
+    .replace(/raymondadvisory\.com/gi, '')
+}
+
 function scanDir(dir) {
   const entries = fs.readdirSync(dir, { withFileTypes: true })
   for (const entry of entries) {
@@ -72,7 +80,7 @@ function scanDir(dir) {
     if (entry.isDirectory()) {
       scanDir(fullPath)
     } else if (/\.(tsx?|jsx?|json|html|css|md)$/.test(entry.name)) {
-      const content = fs.readFileSync(fullPath, 'utf8')
+      const content = stripApprovedReturnLink(fs.readFileSync(fullPath, 'utf8'))
       const hasRaymond = /raymond/i.test(content)
       const relative = path.relative(rootDir, fullPath)
       assert(!hasRaymond, `Zero Raymond references in ${relative}`)

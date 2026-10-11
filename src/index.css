@@ -3,6 +3,7 @@
 @layer base {
   :root {
     color-scheme: light;
+    --return-banner-height: 2.25rem;
   }
 
   html, body {
@@ -73,4 +74,8 @@
     padding: 0;
     overflow: visible;
   }
+}
+
+.section-mobile-clearance {
+  scroll-margin-top: var(--return-banner-height);
 }

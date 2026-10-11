@@ -1,6 +1,7 @@
 import { useRef, useState, useEffect } from 'react';
 import { CanCanvas } from './components/Canvas/CanCanvas';
 import { Header } from './components/DOM/Header';
+import { PortfolioReturnBanner } from './components/DOM/PortfolioReturnBanner';
 import { HeroSection } from './components/DOM/HeroSection';
 import { FlavorStorySection } from './components/DOM/FlavorStorySection';
 import { IngredientsSection } from './components/DOM/IngredientsSection';
@@ -21,8 +22,10 @@ export default function App() {
   return (
     <div
       ref={containerRef}
-      className="relative min-h-screen bg-[#FAF8F5] text-[#1A1817] overflow-x-hidden selection:bg-[#E74202] selection:text-white w-full"
+      className="relative min-h-screen bg-[#FAF8F5] text-[#1A1817] overflow-x-hidden selection:bg-[#E74202] selection:text-white w-full pt-[var(--return-banner-height)]"
     >
+      <PortfolioReturnBanner />
+
       {/* 3D WebGL Canvas Layer (Fixed Background) */}
       <CanCanvas choreography={choreography} />
 
